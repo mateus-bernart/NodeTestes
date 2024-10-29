@@ -25,3 +25,15 @@ Livraria com sistema de cadastro e manejo de livros, autores e editoras.
 - Funcoes de simulacao do Jest (nao rodam oficialmente no banco de dados)
 - Aplicado em forma de reestruturação da função 'salvar'.
 
+## Hooks
+
+- Funcoes (gancho) que sao executadas antes de cada teste acontecer, durante, ou depois de cada teste acontecer.
+- beforeEach(), afterEach(), beforeAll(), afterAll()
+
+## Testes de requisições
+
+- Utilizando a biblioteca supertest
+
+## Tabelas
+
+- test.each() e o método jest.spyOn() para obter mais informações de um determinado método. Se ele foi requisitado, e passando mais argumentos para serem testados em um mesmo teste.
